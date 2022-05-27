@@ -1,4 +1,4 @@
-rom distutils.log import debug
+from distutils.log import debug
 from typing import Any
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
